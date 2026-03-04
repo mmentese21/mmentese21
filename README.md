@@ -12,8 +12,8 @@ I'm a Senior Computer Engineering student at Koç University based in Istanbul. 
 
 ## 🛠️ Tech Stack & Tools
 
-* **Languages:** Python, Java, C, C#
-* **Architecture & ML:** Microservices, OOP, LangChain, Azure AI, NLP
+* **Languages:** Python, Java, C, C#, Kotlin, Dart
+* **Architecture & ML:** Microservices, OOP, LangChain, Azure AI, NLP, Android Development, Cross-Platform Development
 * **Tools:** .NET, Docker, Git, SUMO
 
 ## ⚡ Outside of Code
